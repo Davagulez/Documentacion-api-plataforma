@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_plataforma_hogar=self.webpackChunkapi_plataforma_hogar||[]).push([[3097],{4061:a=>{a.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

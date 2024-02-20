@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_plataforma_hogar=self.webpackChunkapi_plataforma_hogar||[]).push([[453],{1402:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/Documentacion-api-plataforma/blog/tags/hello","allTagsPath":"/Documentacion-api-plataforma/blog/tags","count":2,"unlisted":false}')}}]);

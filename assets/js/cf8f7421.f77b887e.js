@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_plataforma_hogar=self.webpackChunkapi_plataforma_hogar||[]).push([[6700],{5305:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/Documentacion-api-plataforma/blog/tags/docusaurus","allTagsPath":"/Documentacion-api-plataforma/blog/tags","count":4,"unlisted":false}')}}]);

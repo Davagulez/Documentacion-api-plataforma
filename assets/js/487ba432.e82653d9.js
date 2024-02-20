@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapi_plataforma_hogar=self.webpackChunkapi_plataforma_hogar||[]).push([[400],{2365:a=>{a.exports=JSON.parse('{"permalink":"/Documentacion-api-plataforma/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,8 @@
+{
+  "label": "Endpoints",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Todas las rutas distribuidas por cada entidad de la API"
+  }
+}

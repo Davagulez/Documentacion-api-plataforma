@@ -13,15 +13,17 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://Davagulez.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/Documentacion-api-plataforma',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Davagulez', // Usually your GitHub org/user name.
+  projectName: 'Documentacion-api-plataforma', // Usually your repo name.
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -64,12 +66,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/hogarLogo.png',
+      image: 'img/logo-azul-grande-denver.png',
       navbar: {
         title: 'API Docs',
         logo: {
           alt: 'Logo Hogar',
-          src: 'img/hogarLogo.png'
+          src: 'img/logo-azul-grande-denver.png'
         },
         items: [
           {
